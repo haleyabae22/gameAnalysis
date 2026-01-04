@@ -1,2 +1,8 @@
 *__pycahce__*
 *.pyc
+*.pt
+*.avi
+runs/
+output_videos/
+training/
+models/
